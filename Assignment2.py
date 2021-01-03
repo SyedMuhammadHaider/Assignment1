@@ -51,3 +51,6 @@ arr5 = np.arange(10)
 print("5th Percentile:",np.percentile(arr5,5))
 print("95th Percentile:",np.percentile(arr5,95))
 # QUESTION #15
+
+
+
